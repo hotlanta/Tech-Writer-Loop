@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:22:38.183830+00:00",
+ "updated": "2026-11-21T19:26:36.406875+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -53,8 +53,9 @@
   },
   {
    "name": "Hacker News: documentation",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:7:2: mismatched tag"
   },
   {
    "name": "The Content Wrangler",
@@ -82,6 +83,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://medium.com/p/a548fd19694c",
+   "title": "Your Product Has a Knowledge Layer. So Why Aren’t You Designing It?",
+   "link": "https://medium.com/activated-thinker/your-product-has-a-knowledge-layer-so-why-arent-you-designing-it-a548fd19694c?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-21T16:51:30+00:00",
+   "summary": "The missing architecture connecting product features, documentation, support, and user understanding. Continue reading on Activated Thinker »"
+  },
+  {
+   "id": "https://dev.to/ming_guang_4110847626ef21/implementing-modern-documentation-search-for-developer-portals-427p",
+   "title": "Implementing Modern Documentation Search for Developer Portals",
+   "link": "https://dev.to/ming_guang_4110847626ef21/implementing-modern-documentation-search-for-developer-portals-427p",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T16:00:20+00:00",
+   "summary": "Implementing Modern Documentation Search for Developer Portals When developers or users land on a technical portal, their primary goal is to find precise answers quickly. A poorly implemented search bar leads to frustration, increased support tickets, and drop-offs. Building an…"
+  },
+  {
+   "id": "https://dev.to/sherotree/change-a-screenshot-to-the-required-aspect-ratio-in-the-tab-before-you-commit-the-hero-393e",
+   "title": "Change a screenshot to the required aspect ratio in the tab before you commit the hero",
+   "link": "https://dev.to/sherotree/change-a-screenshot-to-the-required-aspect-ratio-in-the-tab-before-you-commit-the-hero-393e",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T14:31:57+00:00",
+   "summary": "The docs call for a 16:9 hero, or the OG template is 1200×630. The file in the PR is a 4:3 laptop screenshot. The layout letterboxes it, or a later object-fit: cover chops off the toolbar you meant to show. Nobody looked at the ratio before the file landed in git. I’ve started…"
+  },
+  {
+   "id": "https://dev.to/juanpabloabadiamedin/a-documentation-exercise-for-an-ambiguous-review-request-2m8",
+   "title": "A documentation exercise for an ambiguous review request",
+   "link": "https://dev.to/juanpabloabadiamedin/a-documentation-exercise-for-an-ambiguous-review-request-2m8",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-21T12:19:19+00:00",
+   "summary": "Take this fictional review request: Categories are ready. Please review. What should the recipient do: comment on wording, classify examples or authorize implementation? The request leaves those questions open. Rewrite the task For this exercise, assume the author wants feedback…"
+  },
+  {
+   "id": "https://medium.com/p/bce7b41d8a30",
+   "title": "Best Docusaurus Search Plugin in 2027: Open-Source Static Search with Docsense",
+   "link": "https://medium.com/@hsatyaseel/best-docusaurus-search-plugin-in-2027-open-source-static-search-with-docsense-bce7b41d8a30?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-21T09:01:02+00:00",
+   "summary": "Add fast, section-level search to your Docusaurus documentation with Docsense, an open-source plugin that generates a searchable index… Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/frosty45/internal-engineering-documentation-retrieval-freshness-windows-and-index-cost-4l69",
    "title": "Internal Engineering Documentation Retrieval: Freshness Windows and Index Cost",
