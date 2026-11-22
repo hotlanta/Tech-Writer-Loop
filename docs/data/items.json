@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:03:16.214073+00:00",
+ "updated": "2026-11-22T19:49:07.741898+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -83,6 +83,15 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/sudhakar_punniyakotti/openwiki-persistent-context-for-your-codebase-and-documents-1n43",
+   "title": "OpenWiki: Persistent Context for Your Codebase and Documents",
+   "link": "https://dev.to/sudhakar_punniyakotti/openwiki-persistent-context-for-your-codebase-and-documents-1n43",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-22T18:49:28+00:00",
+   "summary": "When a coding agent starts a new session, it often has to work out your codebase again. That takes time and tokens, and it can still miss things, like the middleware the rest of your code uses. Now imagine you hit the five-hour limit on Claude Pro and move to Codex or…"
+  },
   {
    "id": "https://dev.to/lukedwighteditor/how-to-structure-documentation-so-developers-actually-read-it-4n12",
    "title": "How to Structure Documentation So Developers Actually Read It",
