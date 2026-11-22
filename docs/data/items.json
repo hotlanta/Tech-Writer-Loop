@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:26:36.406875+00:00",
+ "updated": "2026-11-22T07:03:16.214073+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -83,6 +83,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/lukedwighteditor/how-to-structure-documentation-so-developers-actually-read-it-4n12",
+   "title": "How to Structure Documentation So Developers Actually Read It",
+   "link": "https://dev.to/lukedwighteditor/how-to-structure-documentation-so-developers-actually-read-it-4n12",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-22T06:00:29+00:00",
+   "summary": "Developers do not read documentation the way a novel is read. They arrive with a problem, scan for the answer, copy what they need and leave. If the structure fights that behaviour, they will abandon the docs and ask a colleague, open a support ticket or guess, and the…"
+  },
+  {
+   "id": "https://dev.to/sarathkavuru/ai-agent-framework-docs-compared-17-of-20-publish-llmstxt-but-the-overview-page-costs-41x-more-4lpa",
+   "title": "AI Agent Framework Docs Compared: 17 of 20 Publish llms.txt, but the Overview Page Costs 41x More Tokens as HTML (Nov 2026)",
+   "link": "https://dev.to/sarathkavuru/ai-agent-framework-docs-compared-17-of-20-publish-llmstxt-but-the-overview-page-costs-41x-more-4lpa",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-22T05:45:24+00:00",
+   "summary": "On November 22, 2026, 17 of 20 AI agent framework documentation sites published an llms.txt file, but only 16 of 20 serve any page as markdown, and when they do, the framework's overview page costs a median 41x fewer tokens than the HTML an agent's fetch tool gets by default:…"
+  },
+  {
+   "id": "https://dev.to/the_movie_9b1357e8c99cfaa/your-handoff-docs-are-a-template-problem-not-a-tooling-problem-5ec2",
+   "title": "Your handoff docs are a template problem, not a tooling problem",
+   "link": "https://dev.to/the_movie_9b1357e8c99cfaa/your-handoff-docs-are-a-template-problem-not-a-tooling-problem-5ec2",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-22T04:36:23+00:00",
+   "summary": "This started as an article on the AI Stack Lab blog — same product, same measurements, a different edit. If something here is unclear, ask in the comments and I will answer with the exact command output. The week before an engineer leaves is always the same week. Nobody writes…"
+  },
+  {
+   "id": "https://medium.com/p/149b18834a95",
+   "title": "We Debug APIs, Write Scripts, and Build AI Evals. Why Are We Still Just Writers?",
+   "link": "https://medium.com/@hsatyaseel/we-debug-apis-write-scripts-and-build-ai-evals-why-are-we-still-just-writers-149b18834a95?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-22T03:06:41+00:00",
+   "summary": "Let’s see the growing gap between the technical work documentation teams do every day and how companies level and treat the role. Continue reading on Medium »"
+  },
+  {
+   "id": "https://medium.com/p/87f5de185ef2",
+   "title": "When a summary turns a plan into a promise",
+   "link": "https://medium.com/@augmanitai/when-a-summary-turns-a-plan-into-a-promise-87f5de185ef2?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-21T21:17:16+00:00",
+   "summary": "A fictional art sale shows how three fluent handovers change who is owed what. Continue reading on Medium »"
+  },
   {
    "id": "https://medium.com/p/a548fd19694c",
    "title": "Your Product Has a Knowledge Layer. So Why Aren’t You Designing It?",
