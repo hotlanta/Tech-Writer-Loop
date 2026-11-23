@@ -13,7 +13,7 @@ feeds:
   - {name: "Vale releases", type: rss, topic: "Docs tooling", url: "https://github.com/errata-ai/vale/releases.atom"}
   - {name: "dev.to: documentation", type: rss, topic: "Docs-as-code", url: "https://dev.to/feed/tag/documentation"}
   - {name: "Medium: technical writing", type: rss, topic: "Technical writing", url: "https://medium.com/feed/tag/technical-writing"}
-  - {name: "Hacker News: documentation", type: rss, topic: "Discussion", url: "https://hnrss.org/newest?q=documentation&points=50"}
+  - {name: "Hacker News: documentation", type: rss, topic: "Discussion", url: "https://hnrss.org/newest?q=documentation&points=50", enabled: false}
   # Examples to enable (replace the placeholders):
   - {name: "The Content Wrangler", type: rss, topic: "Newsletters", url: "https://www.thecontentwrangler.com/feed"}
   - {name: "Cyborgs Writing (Lance Cummings)", type: rss, topic: "AI and content", url: "https://www.isophist.com/feed"}
