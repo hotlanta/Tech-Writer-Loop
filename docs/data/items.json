@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:51:18.366611+00:00",
+ "updated": "2026-11-23T20:40:39.575563+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -52,12 +52,6 @@
    "count": 3
   },
   {
-   "name": "Hacker News: documentation",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:7:2: mismatched tag"
-  },
-  {
    "name": "The Content Wrangler",
    "ok": true,
    "count": 3
@@ -83,6 +77,69 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/leojulieta/arm-developer-portal-shutdown-essential-prep-before-dec-2026-9ge",
+   "title": "Arm Developer Portal Shutdown: Essential Prep Before Dec 2026",
+   "link": "https://dev.to/leojulieta/arm-developer-portal-shutdown-essential-prep-before-dec-2026-9ge",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-23T19:50:03+00:00",
+   "summary": "ARM Portal Shutdown — What You Must Do Before December 2026 Introduction The official shutdown of the Arm Developer portal on 31 December 2026 is no longer a rumor—it’s a confirmed deadline that is already driving a massive spike in Google searches and frantic Slack threads. If…"
+  },
+  {
+   "id": "https://medium.com/p/8d6effca773b",
+   "title": "Give every shared docs snippet a job description",
+   "link": "https://medium.com/@jameson_64305/give-every-shared-docs-snippet-a-job-description-8d6effca773b?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-23T16:56:20+00:00",
+   "summary": "An eight-line record that tells the next editor what a reused fragment covers, who owns it and which pages change with it. Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/xandercross2748/nodejs-customer-dns-instructions-prevent-record-drift-for-publisher-onboarding-1004",
+   "title": "Node.js Customer DNS Instructions Prevent Record Drift (For Publisher Onboarding)",
+   "link": "https://dev.to/xandercross2748/nodejs-customer-dns-instructions-prevent-record-drift-for-publisher-onboarding-1004",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-23T16:19:18+00:00",
+   "summary": "Generate customer-facing DNS instructions from the same record set your verifier checks. For a media product onboarding a publisher's own domain, that shared source is the deciding constraint: the customer, their DNS administrator, and your support team must be working toward…"
+  },
+  {
+   "id": "https://medium.com/p/1dea328a151e",
+   "title": "One more agent and then I’ll stop",
+   "link": "https://medium.com/grafana-labs/one-more-agent-and-then-ill-stop-1dea328a151e?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-23T15:50:08+00:00",
+   "summary": "AI meets psychology, part 2: why we keep asking, and how to know when the checking is enough. Read part 1 here. Continue reading on Unprompted, by Grafana Labs »"
+  },
+  {
+   "id": "https://dev.to/ennasde/codifying-tacit-knowledge-into-operating-standards-a-two-sided-architecture-544d",
+   "title": "Codifying tacit knowledge into operating standards: a two-sided architecture",
+   "link": "https://dev.to/ennasde/codifying-tacit-knowledge-into-operating-standards-a-two-sided-architecture-544d",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-23T15:08:25+00:00",
+   "summary": "Most engineering teams have a version of the same problem. The system that matters most is not in any repo. It lives in one person's head, in judgment calls, in the way they respond to incidents, in the unwritten rules about what gets shipped and what gets held back. That…"
+  },
+  {
+   "id": "https://www.thecontentwrangler.com/p/a-shared-ai-training-opt-out-could",
+   "title": "A Shared AI Training Opt-Out Could Also Keep Your Documentation Out of Gemini Answers",
+   "link": "https://www.thecontentwrangler.com/p/a-shared-ai-training-opt-out-could",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-23T14:31:22+00:00",
+   "summary": "Google and Microsoft plan to read the same robots.txt instruction differently, and the difference could decide whether AI answers draw on your docs or not"
+  },
+  {
+   "id": "https://medium.com/p/9faedb283935",
+   "title": "Word Keeps Cutting Your Table Rows in Half Across Pages. Here’s How to Stop It",
+   "link": "https://medium.com/@szilard.nemeth/word-keeps-cutting-your-table-rows-in-half-across-pages-heres-how-to-stop-it-9faedb283935?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-23T14:02:57+00:00",
+   "summary": "The issue is plain and simple and so is the fix. Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/asael_shinder_9f53bdca840/your-teams-documentation-puts-tutorials-reference-and-opinions-on-the-same-page-16im",
    "title": "Your Team's Documentation Puts Tutorials, Reference and Opinions on the Same Page",
@@ -136,6 +193,15 @@
    "topic": "Docs-as-code",
    "published": "2026-11-22T18:49:28+00:00",
    "summary": "When a coding agent starts a new session, it often has to work out your codebase again. That takes time and tokens, and it can still miss things, like the middleware the rest of your code uses. Now imagine you hit the five-hour limit on Claude Pro and move to Codex or…"
+  },
+  {
+   "id": "https://idratherbewriting.com/blog/agent-directed-notes-in-doc-pages",
+   "title": "Should you put agent-directed notes in your docs?",
+   "link": "https://idratherbewriting.com/blog/agent-directed-notes-in-doc-pages",
+   "source": "I'd Rather Be Writing",
+   "topic": "Technical writing",
+   "published": "2026-11-22T08:00:00+00:00",
+   "summary": "Some doc sites now include notes aimed directly at coding agents, like Stripe's CLI and API directives. Based on recent research and agent testing, most of these notes are unnecessary, risk triggering prompt-injection filters, or get lost in fetch summaries. The exceptions worth…"
   },
   {
    "id": "https://dev.to/lukedwighteditor/how-to-structure-documentation-so-developers-actually-read-it-4n12",
