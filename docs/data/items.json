@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:49:07.741898+00:00",
+ "updated": "2026-11-23T07:51:18.366611+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -83,6 +83,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/asael_shinder_9f53bdca840/your-teams-documentation-puts-tutorials-reference-and-opinions-on-the-same-page-16im",
+   "title": "Your Team's Documentation Puts Tutorials, Reference and Opinions on the Same Page",
+   "link": "https://dev.to/asael_shinder_9f53bdca840/your-teams-documentation-puts-tutorials-reference-and-opinions-on-the-same-page-16im",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-23T07:43:51+00:00",
+   "summary": "A new colleague asks how to add a field to the customer API. You send them the page. It starts with the history of the service, then a long explanation of why the team chose this framework, then a step by step guide that stops halfway, then a table of every setting. They read…"
+  },
+  {
+   "id": "https://medium.com/p/3d250b3e816e",
+   "title": "We Already Knew This",
+   "link": "https://medium.com/@stillblueist/we-already-knew-this-3d250b3e816e?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-23T05:06:46+00:00",
+   "summary": "We’d seen all of it before Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/gtelocalize/why-thread-load-and-token-break-translations-technical-terminology-for-developers-3nof",
+   "title": "Why \"Thread\", \"Load\" and \"Token\" Break Translations: Technical Terminology for Developers",
+   "link": "https://dev.to/gtelocalize/why-thread-load-and-token-break-translations-technical-terminology-for-developers-3nof",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-23T02:26:28+00:00",
+   "summary": "Technical terms are the words and phrases that describe how a machine, product, feature or workflow operates. Their meaning is rarely defined by the word alone. It depends on the role the term plays inside a system, and that makes them easy to mistranslate even for skilled…"
+  },
+  {
+   "id": "https://dev.to/maildoer/octobers-glaze-card-does-not-unlock-thursday-on-kiln-b-4dp7",
+   "title": "October's glaze card does not unlock Thursday on kiln B",
+   "link": "https://dev.to/maildoer/octobers-glaze-card-does-not-unlock-thursday-on-kiln-b-4dp7",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-22T22:17:15+00:00",
+   "summary": "\"Same as my October stoneware glaze firing, but add the new bowls I just made. Can you squeeze them into Thursday's glaze so they're ready for Saturday's market?\" That sounds like a small addition to a firing you already ran. It isn't. October's card locked in a cone, a shelf, a…"
+  },
+  {
+   "id": "https://medium.com/p/2fc92c446a0b",
+   "title": "Things I Do as an API Documentation Writer That a Technical Writer Would Not",
+   "link": "https://robertdelwood.medium.com/things-i-do-as-an-api-documentation-writer-that-a-technical-writer-would-not-2fc92c446a0b?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-22T20:52:20+00:00",
+   "summary": "We have to adjust our writing style for our audience’s reading style. Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/sudhakar_punniyakotti/openwiki-persistent-context-for-your-codebase-and-documents-1n43",
    "title": "OpenWiki: Persistent Context for Your Codebase and Documents",
