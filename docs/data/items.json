@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:00:42.982511+00:00",
+ "updated": "2026-11-24T10:03:25.382116+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,33 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/sapph1re/your-coding-agent-knows-the-project-make-it-write-the-facts-down-3071",
+   "title": "Your coding agent knows the project. Make it write the facts down",
+   "link": "https://dev.to/sapph1re/your-coding-agent-knows-the-project-make-it-write-the-facts-down-3071",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T09:33:51+00:00",
+   "summary": "When agents write most of the code, the team ships more than any one person can hold in their head. That's fine until a meeting. Someone asks: what's the retry limit on the payment webhook? Why did we pick NATS over Kafka? When does the import migration land? The answers exist…"
+  },
+  {
+   "id": "https://dev.to/muhammadahmadsandhu01/how-to-ship-clean-markdown-docs-for-ai-coding-agents-llmstxt-llms-fulltxt-nextjs-routes-2l7f",
+   "title": "How to Ship Clean Markdown Docs for AI Coding Agents (llms.txt, llms-full.txt & Next.js Routes Without External Crawlers)",
+   "link": "https://dev.to/muhammadahmadsandhu01/how-to-ship-clean-markdown-docs-for-ai-coding-agents-llmstxt-llms-fulltxt-nextjs-routes-2l7f",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T08:24:23+00:00",
+   "summary": "If you maintain an SDK, API, or developer tool, you've probably watched an AI coding assistant hallucinate outdated flags because it tried to parse your heavily styled HTML docs—or got tripped up by client-side hydration. Even though Google Search does not use llms.txt for…"
+  },
+  {
+   "id": "https://dev.to/angel__e88bb8641824c/using-ai-to-simplify-enterprise-data-workflow-documentation-5e8p",
+   "title": "Using AI to Simplify Enterprise Data Workflow Documentation",
+   "link": "https://dev.to/angel__e88bb8641824c/using-ai-to-simplify-enterprise-data-workflow-documentation-5e8p",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T07:23:55+00:00",
+   "summary": "Enterprise data projects often involve multiple layers of complexity, from understanding data sources and transformations to documenting business logic and validating outputs. One interesting application of AI assistants is simplifying this documentation process. The challenge…"
+  },
   {
    "id": "https://dev.to/leojulieta/arm-developer-portal-shutdown-essential-prep-before-dec-2026-9ge",
    "title": "Arm Developer Portal Shutdown: Essential Prep Before Dec 2026",
