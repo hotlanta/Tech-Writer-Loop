@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:03:25.382116+00:00",
+ "updated": "2026-11-24T22:34:35.634086+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/yamuno/document-management-in-confluence-cloud-a-practical-setup-p1l",
+   "title": "Document Management in Confluence Cloud: A Practical Setup",
+   "link": "https://dev.to/yamuno/document-management-in-confluence-cloud-a-practical-setup-p1l",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T19:24:23+00:00",
+   "summary": "Document Management in Confluence Cloud: A Practical Setup Short answer: Confluence Cloud covers most of what teams need from document management: every page keeps a full version history, each page has an owner and can carry a status, files keep their versions, restrictions…"
+  },
+  {
+   "id": "https://medium.com/p/4335334e0593",
+   "title": "Fill in these seven lines before your integration gets a second worker",
+   "link": "https://medium.com/@jameson_64305/fill-in-these-seven-lines-before-your-integration-gets-a-second-worker-4335334e0593?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-24T16:33:44+00:00",
+   "summary": "A practical worksheet for documenting shared API capacity, worked through on a made-up sync app. Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/explain-ink/how-to-draw-an-architecture-diagram-people-actually-read-h0l",
+   "title": "How to Draw an Architecture Diagram People Actually Read",
+   "link": "https://dev.to/explain-ink/how-to-draw-an-architecture-diagram-people-actually-read-h0l",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T16:02:06+00:00",
+   "summary": "Many architecture diagrams look the same: twenty boxes, thirty arrows, three colours whose meaning nobody remembers, and a legend in the corner. They are accurate, and people look at them for a few seconds and go back to reading code. A diagram that gets read answers one…"
+  },
+  {
+   "id": "https://dev.to/flisk/open-source-readme-template-what-to-put-in-the-first-40-lines-19dm",
+   "title": "What Is a README File? What to Put in the First 40 Lines (Open Source Template)",
+   "link": "https://dev.to/flisk/open-source-readme-template-what-to-put-in-the-first-40-lines-19dm",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-24T14:01:12+00:00",
+   "summary": "TL;DR: copy this structure, then score it. The order matters more than the words: title, one-line pitch, a picture, an install command, all within the first screen. Looking for an open source readme template ? Here is one built from the rules README Score checks, so you can test…"
+  },
+  {
+   "id": "https://www.thecontentwrangler.com/p/what-is-interpretability",
+   "title": "What Is Interpretability?",
+   "link": "https://www.thecontentwrangler.com/p/what-is-interpretability",
+   "source": "The Content Wrangler",
+   "topic": "Newsletters",
+   "published": "2026-11-24T13:30:42+00:00",
+   "summary": "What separates documentation people and machines understand from documentation they can only guess at"
+  },
   {
    "id": "https://dev.to/sapph1re/your-coding-agent-knows-the-project-make-it-write-the-facts-down-3071",
    "title": "Your coding agent knows the project. Make it write the facts down",
