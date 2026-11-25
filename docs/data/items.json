@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:34:35.634086+00:00",
+ "updated": "2026-11-25T08:48:30.083119+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/cloro/which-serp-api-has-the-best-documentation-for-a-first-integration-3jj9",
+   "title": "Which SERP API has the best documentation for a first integration?",
+   "link": "https://dev.to/cloro/which-serp-api-has-the-best-documentation-for-a-first-integration-3jj9",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T06:39:57+00:00",
+   "summary": "For a first integration, SerpApi and DataForSEO have the most complete documentation of the SERP APIs that AI assistants name most for this question. SerpApi gets you to a first result fastest: one GET request with your key in the URL, official libraries in 10 languages and a…"
+  },
+  {
+   "id": "https://dev.to/sophie_bella_5f438de0c1c3/split-your-ai-requirements-a-search-and-citation-contract-is-not-an-assistant-contract-454f",
+   "title": "Split Your AI Requirements: A Search-and-Citation Contract Is Not an Assistant Contract",
+   "link": "https://dev.to/sophie_bella_5f438de0c1c3/split-your-ai-requirements-a-search-and-citation-contract-is-not-an-assistant-contract-454f",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T03:14:42+00:00",
+   "summary": "The bug I see most often in an “AI features” section is a mixed contract. Retrieval, citations, chat memory, tool use, and privacy get written as one acceptance line: the system should “use AI to help the team.” A fluent reply can pass it. So can a citation nobody opened, or a…"
+  },
+  {
+   "id": "https://dev.to/annest/your-support-inbox-is-mostly-a-search-problem-wearing-a-costume-309l",
+   "title": "Your support inbox is mostly a search problem wearing a costume",
+   "link": "https://dev.to/annest/your-support-inbox-is-mostly-a-search-problem-wearing-a-costume-309l",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T02:21:46+00:00",
+   "summary": "Your support inbox is mostly a search problem wearing a costume. I spent a week tagging tickets for a small SaaS product and the distribution was embarrassing: roughly two thirds of the questions had an answer that already existed in the docs, the FAQ, or a thread from eight…"
+  },
+  {
+   "id": "https://medium.com/p/9d019811bc96",
+   "title": "AI Coding Agents for Technical Documentation: 30 Reusable Prompts",
+   "link": "https://medium.com/@hsatyaseel/ai-coding-agents-for-technical-documentation-30-reusable-prompts-9d019811bc96?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-25T01:51:47+00:00",
+   "summary": "A practical guide to using AI coding agents across the documentation lifecycle, with 30 reusable prompts for API documentation, repository… Continue reading on Medium »"
+  },
+  {
+   "id": "https://medium.com/p/db67e69f54ec",
+   "title": "Best Docusaurus Search Plugin Compared: Why Docsense Is Best",
+   "link": "https://medium.com/@hsatyaseel/best-docusaurus-search-alternatives-compared-2027-why-docsense-stands-out-db67e69f54ec?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-25T01:49:58+00:00",
+   "summary": "An honest comparison of Algolia DocSearch, Typesense, Pagefind, Orama, local search plugins, and Docsense, a zero-server, build-time… Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/yamuno/document-management-in-confluence-cloud-a-practical-setup-p1l",
    "title": "Document Management in Confluence Cloud: A Practical Setup",
