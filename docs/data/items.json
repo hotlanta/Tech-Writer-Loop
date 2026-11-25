@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:48:30.083119+00:00",
+ "updated": "2026-11-25T21:49:04.217662+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -78,6 +78,69 @@
  ],
  "items": [
   {
+   "id": "https://medium.com/p/1ce1cf9b26c4",
+   "title": "An agent can pass its tests and still keep spending",
+   "link": "https://worktif.medium.com/an-agent-can-pass-its-tests-and-still-keep-spending-1ce1cf9b26c4?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-25T20:50:04+00:00",
+   "summary": "An agent edits a patch, runs a test and sees a pass. It can now continue checking, change the patch, or stop. Each choice has a different… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/sophie-pyxis/registros-de-decisao-de-arquitetura-documente-por-que-uma-conta-continua-pendente-1kkh",
+   "title": "Registros de decisão de arquitetura | Documente por que uma conta continua pendente",
+   "link": "https://dev.to/sophie-pyxis/registros-de-decisao-de-arquitetura-documente-por-que-uma-conta-continua-pendente-1kkh",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T20:00:00+00:00",
+   "summary": "Natureza-morta de luz noturna em tons de tungstênio. Um cadeado e uma corrente fecham a redoma de uma maquete de edifício diante de plantas enroladas. A redoma representa as condições registradas que ajudam a preservar a escolha de arquitetura entre entregas. Parte 3 de 8 da…"
+  },
+  {
+   "id": "https://medium.com/p/9540d6bd2652",
+   "title": "Un guide peut-il survivre au déplacement d’un bouton ?",
+   "link": "https://medium.com/@clarte_editoriale/un-guide-peut-il-survivre-au-d%C3%A9placement-dun-bouton-9540d6bd2652?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-25T17:37:28+00:00",
+   "summary": "Le guide disait « Cliquez sur le bouton violet à droite de la photo ». Après une mise à jour de la fiche produit, le bouton de livraison… Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/preppit/how-to-collect-client-feedback-on-a-deck-without-it-getting-lost-1gp0",
+   "title": "How to collect client feedback on a deck without it getting lost",
+   "link": "https://dev.to/preppit/how-to-collect-client-feedback-on-a-deck-without-it-getting-lost-1gp0",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T16:40:54+00:00",
+   "summary": "Client feedback on a deck often starts clear and then gets scattered across email, chat, call notes and circled screenshots. The way to keep it usable is to capture each comment against the slide or section it is about, in one place, before anyone starts making changes. Why…"
+  },
+  {
+   "id": "https://dev.to/ilyatech/moving-beyond-tutorials-building-c-and-web-projects-with-documentation-is-a-sound-self-taught-shift-36kc",
+   "title": "Moving Beyond Tutorials: Building C and Web Projects with Documentation Is a Sound Self-Taught Shift",
+   "link": "https://dev.to/ilyatech/moving-beyond-tutorials-building-c-and-web-projects-with-documentation-is-a-sound-self-taught-shift-36kc",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-25T16:38:02+00:00",
+   "summary": "The Tutorial Trap: Why Passive Consumption Stalls Self-Taught Beginners Abandoning passive video tutorials in favor of independent project construction and direct reference lookup is the necessary corrective to tutorial hell—yet that shift only pays off if beginners discipline…"
+  },
+  {
+   "id": "https://medium.com/p/12e55d9117ba",
+   "title": "Writing the five lines that belong next to a Try it button",
+   "link": "https://medium.com/@jameson_64305/writing-the-five-lines-that-belong-next-to-a-try-it-button-12e55d9117ba?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-25T15:55:43+00:00",
+   "summary": "A worked example with a made-up scheduling API, two endpoints and four kinds of test environment. Continue reading on Medium »"
+  },
+  {
+   "id": "https://www.isophist.com/p/how-do-i-structure-an-agentsmd-file",
+   "title": "How do I structure an AGENTS.md file?",
+   "link": "https://www.isophist.com/p/how-do-i-structure-an-agentsmd-file",
+   "source": "Cyborgs Writing (Lance Cummings)",
+   "topic": "AI and content",
+   "published": "2026-11-25T14:26:01+00:00",
+   "summary": "Five sections for an AGENTS.md or CLAUDE.md file, and what to move out when yours gets too long"
+  },
+  {
    "id": "https://dev.to/cloro/which-serp-api-has-the-best-documentation-for-a-first-integration-3jj9",
    "title": "Which SERP API has the best documentation for a first integration?",
    "link": "https://dev.to/cloro/which-serp-api-has-the-best-documentation-for-a-first-integration-3jj9",
@@ -121,6 +184,24 @@
    "topic": "Technical writing",
    "published": "2026-11-25T01:49:58+00:00",
    "summary": "An honest comparison of Algolia DocSearch, Typesense, Pagefind, Orama, local search plugins, and Docsense, a zero-server, build-time… Continue reading on Medium »"
+  },
+  {
+   "id": "https://chrischinchilla.com/2026/vale-mcp-0-3-0/",
+   "title": "Vale MCP 0.3.0: rule tools, a config resource and prompts",
+   "link": "https://chrischinchilla.com/2026/vale-mcp-0-3-0/",
+   "source": "Chris Chinchilla",
+   "topic": "Technical writing",
+   "published": "2026-11-25T00:00:00+00:00",
+   "summary": "Vale MCP 0.3.0 adds tools to list and explain Vale rules, an MCP resource for your active configuration, three prompts, and a set of fixes to path handling and error output."
+  },
+  {
+   "id": "https://www.writethedocs.org/conf/australia/2026/news/welcome-australia-2026/",
+   "title": "Welcome to Write the Docs Australia 2026",
+   "link": "https://www.writethedocs.org/conf/australia/2026/news/welcome-australia-2026/",
+   "source": "Write the Docs",
+   "topic": "Community",
+   "published": "2026-11-25T00:00:00+00:00",
+   "summary": "We are just a week away from our conference! We can’t wait to gather with you in Melbourne and online, for two days of talks, lightning talks, and a brand new experiment we call Fishbowl."
   },
   {
    "id": "https://dev.to/yamuno/document-management-in-confluence-cloud-a-practical-setup-p1l",
