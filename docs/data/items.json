@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:34:00.009590+00:00",
+ "updated": "2026-11-26T21:41:37.570331+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,60 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/noatubic/a-knowledge-base-for-your-repo-and-your-ai-agent-2o3i",
+   "title": "A knowledge base for your repo and your AI agent",
+   "link": "https://dev.to/noatubic/a-knowledge-base-for-your-repo-and-your-ai-agent-2o3i",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T16:26:31+00:00",
+   "summary": "The code tells you what a system does. It doesn't tell you why totals are rounded per line, why a declined card is never retried, or that someone already compared three payment SDKs last spring. That knowledge usually lives in a wiki nobody reviews, or in one person's head. My…"
+  },
+  {
+   "id": "https://dev.to/explain-ink/how-to-write-release-notes-that-users-understand-35h3",
+   "title": "How to Write Release Notes That Users Understand",
+   "link": "https://dev.to/explain-ink/how-to-write-release-notes-that-users-understand-35h3",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T16:02:03+00:00",
+   "summary": "Release notes are often written at the end of a release by whoever has a moment, from the list of merged pull requests. The result reads like this: Refactor auth middleware Fix race condition in sync worker (#4182) Bump dependencies Add export_format param Every line is true. A…"
+  },
+  {
+   "id": "https://dev.to/alisa_hester_1/what-to-check-before-you-merge-an-ai-drafted-docs-pr-5dgg",
+   "title": "What to check before you merge an AI-drafted docs PR",
+   "link": "https://dev.to/alisa_hester_1/what-to-check-before-you-merge-an-ai-drafted-docs-pr-5dgg",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T15:41:22+00:00",
+   "summary": "Originally written by Arun Bhalla for EkLine . An agent can open docs pull requests that each still need a person to check them. The drafts can read well and still pass CI. The risk is the one detail that sounds right and is wrong: a flag the CLI never had, a version that was…"
+  },
+  {
+   "id": "https://medium.com/p/043955710ea3",
+   "title": "Float vs. Decimal: Differences API Documentation Writers Should Know",
+   "link": "https://robertdelwood.medium.com/float-vs-decimal-differences-api-documentation-writers-should-know-043955710ea3?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-26T15:19:34+00:00",
+   "summary": "Data types in OpenAPI matter and we need to know when they do. Continue reading on Medium »"
+  },
+  {
+   "id": "tag:github.com,2008:Repository/81020247/v3.29.0",
+   "title": "v3.29.0",
+   "link": "https://github.com/vale-cli/vale/releases/tag/v3.29.0",
+   "source": "Vale releases",
+   "topic": "Docs tooling",
+   "published": "2026-11-26T14:26:02+00:00",
+   "summary": "LaTeX. Vale now lints .tex files. It reads the source without running TeX, so a document that doesn't compile still lints. Math, citations, references, and verbatim text are treated as code; sections, captions, footnotes, list items, and table cells are prose. Typst, built in.…"
+  },
+  {
+   "id": "https://medium.com/p/7cd98856e314",
+   "title": "I Rewrote the Cat Facts API Docs in Plain Language. Here’s What I Found.",
+   "link": "https://medium.com/@soledaddavids42/i-rewrote-the-cat-facts-api-docs-in-plain-language-heres-what-i-found-7cd98856e314?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-26T12:59:33+00:00",
+   "summary": "I picked the Cat Facts API at random. I wasn’t looking for a perfect project. I wanted to take public documentation and rewrite it in… Continue reading on Medium »"
+  },
   {
    "id": "https://medium.com/p/3340cf8e30f2",
    "title": "Your Protocol’s Table of Contents Is Lying to You",
