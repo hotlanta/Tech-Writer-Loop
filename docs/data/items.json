@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:49:04.217662+00:00",
+ "updated": "2026-11-26T08:34:00.009590+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,42 @@
   }
  ],
  "items": [
+  {
+   "id": "https://medium.com/p/3340cf8e30f2",
+   "title": "Your Protocol’s Table of Contents Is Lying to You",
+   "link": "https://medium.com/@szilard.nemeth/your-protocols-table-of-contents-is-lying-to-you-3340cf8e30f2?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-26T08:17:28+00:00",
+   "summary": "A heading is missing from your table of contents, or an entry sends you to the wrong page. Continue reading on Medium »"
+  },
+  {
+   "id": "https://dev.to/docstar_io/mcp-failure-alerts-know-when-your-mcp-server-breaks-48c7",
+   "title": "MCP Failure Alerts: Know When Your MCP Server Breaks",
+   "link": "https://dev.to/docstar_io/mcp-failure-alerts-know-when-your-mcp-server-breaks-48c7",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T07:40:07+00:00",
+   "summary": "When an AI assistant calls your MCP server and something on your side breaks, nobody tells you. The assistant gets an error, maybe retries, and then tells your user \"that didn't work\". Your user gives up, and you find out days later, if at all. DocStar's MCP failure alerts fix…"
+  },
+  {
+   "id": "https://dev.to/annatadrzak/choosing-a-confluence-alternative-for-enterprise-knowledge-work-1bb3",
+   "title": "Choosing a Confluence Alternative for Enterprise Knowledge Work",
+   "link": "https://dev.to/annatadrzak/choosing-a-confluence-alternative-for-enterprise-knowledge-work-1bb3",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T07:01:07+00:00",
+   "summary": "Choosing a Confluence alternative starts with the work you need it to do. A governed internal knowledge base, a document repository, enterprise search, and a technical publishing platform solve different problems. For each option, assess access control, how teams prepare and…"
+  },
+  {
+   "id": "https://dev.to/measuredview/a-room-brief-data-checklist-designers-can-actually-validate-1ae0",
+   "title": "A Room Brief Data Checklist Designers Can Actually Validate",
+   "link": "https://dev.to/measuredview/a-room-brief-data-checklist-designers-can-actually-validate-1ae0",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-26T06:42:10+00:00",
+   "summary": "A room brief often mixes permanent needs, occasional visits, product dimensions and assumptions in one paragraph. That is readable for a conversation and poor for coordination. A small data structure can separate what is known, what needs verification and what decision the room…"
+  },
   {
    "id": "https://medium.com/p/1ce1cf9b26c4",
    "title": "An agent can pass its tests and still keep spending",
