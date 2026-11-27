@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:14:54.270273+00:00",
+ "updated": "2026-11-27T14:18:35.560096+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -62,12 +62,6 @@
    "count": 3
   },
   {
-   "name": "DocsWriter (Gaurav Nelson)",
-   "ok": false,
-   "count": 0,
-   "error": "<unknown>:2:39: not well-formed (invalid token)"
-  },
-  {
    "name": "technicalwriting.dev (Kayce Basques)",
    "ok": true,
    "count": 3
@@ -96,6 +90,12 @@
    "platform": "Reddit",
    "url": "https://www.reddit.com/r/technicalwriting/",
    "note": "Community questions and job talk"
+  },
+  {
+   "name": "DocsWriter",
+   "platform": "Website",
+   "url": "https://www.docswriter.com/posts",
+   "note": "Docs-as-code, LLMs and tools"
   }
  ],
  "items": [
