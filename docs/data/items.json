@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:41:37.570331+00:00",
+ "updated": "2026-11-27T08:46:21.234826+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -77,6 +77,33 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/jessieburnside/choosing-a-confluence-alternative-a-decision-guide-for-teams-1e10",
+   "title": "Choosing a Confluence Alternative: A Decision Guide for Teams",
+   "link": "https://dev.to/jessieburnside/choosing-a-confluence-alternative-a-decision-guide-for-teams-1e10",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T06:01:02+00:00",
+   "summary": "A Confluence replacement has to fit the work your team actually does: onboarding, product decisions, operating procedures, or some combination. A wiki can become difficult to navigate when teams duplicate pages or miss current guidance. The right alternative depends on how you…"
+  },
+  {
+   "id": "https://dev.to/sandscale/use-case-testing-the-code-snippets-in-your-docs-one-sandbox-per-page-9kf",
+   "title": "Use case: testing the code snippets in your docs, one sandbox per page",
+   "link": "https://dev.to/sandscale/use-case-testing-the-code-snippets-in-your-docs-one-sandbox-per-page-9kf",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T05:28:55+00:00",
+   "summary": "Every documentation site has examples that stopped working months ago. A renamed function, a changed default, a dependency that moved, and the snippet in your quickstart now throws. Nobody notices until a new user does, and by then their first impression is a stack trace. The…"
+  },
+  {
+   "id": "https://dev.to/docstar_io/how-to-debug-failed-mcp-tool-calls-1ha3",
+   "title": "How to Debug Failed MCP Tool Calls",
+   "link": "https://dev.to/docstar_io/how-to-debug-failed-mcp-tool-calls-1ha3",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T03:40:04+00:00",
+   "summary": "With DocStar, debugging a failed MCP tool call takes minutes instead of guesswork: every call an AI assistant makes to your API through your DocStar MCP server is logged with what the assistant sent, the exact request that reached your API and the response it got back. Connect…"
+  },
   {
    "id": "https://dev.to/noatubic/a-knowledge-base-for-your-repo-and-your-ai-agent-2o3i",
    "title": "A knowledge base for your repo and your AI agent",
