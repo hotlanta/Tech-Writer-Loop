@@ -18,6 +18,10 @@ feeds:
   - {name: "The Content Wrangler", type: rss, topic: "Newsletters", url: "https://www.thecontentwrangler.com/feed"}
   - {name: "Cyborgs Writing (Lance Cummings)", type: rss, topic: "AI and content", url: "https://www.isophist.com/feed"}
   - {name: "Example YouTube channel", type: rss, topic: "Video", url: "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID", enabled: false}
+  - {name: "DocsWriter (Gaurav Nelson)", type: rss, topic: "Technical writing", url: "https://www.docswriter.com/rss.xml"}
+  - {name: "technicalwriting.dev (Kayce Basques)", type: rss, topic: "Technical writing", url: "https://technicalwriting.dev/rss.xml"}
+  - {name: "r/technicalwriting", type: rss, topic: "Community", url: "https://www.reddit.com/r/technicalwriting/.rss"}
 voices:   # link-only: no API, no scraping
   - {name: "Tom Johnson on X", platform: X, url: "https://x.com/tomjohnson", note: "Technical writing, AI and docs"}
   - {name: "Write the Docs on LinkedIn", platform: LinkedIn, url: "https://www.linkedin.com/company/write-the-docs/", note: "Community announcements"}
+  - {name: "r/technicalwriting", platform: Reddit, url: "https://www.reddit.com/r/technicalwriting/", note: "Community questions and job talk"}
