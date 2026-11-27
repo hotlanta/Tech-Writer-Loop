@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:18:58.356665+00:00",
+ "updated": "2026-11-27T21:27:02.266036+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -99,6 +99,33 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/max-rooz/construction-management-works-better-when-the-project-record-stays-organized-14aa",
+   "title": "Construction Management Works Better When the Project Record Stays Organized",
+   "link": "https://dev.to/max-rooz/construction-management-works-better-when-the-project-record-stays-organized-14aa",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T18:15:03+00:00",
+   "summary": "Construction Management Works Better When the Project Record Stays Organized The source article on effective construction management covers a familiar set of best practices: planning, scheduling, resource allocation, risk management, communication, technology, documentation,…"
+  },
+  {
+   "id": "https://medium.com/p/bf4359d09434",
+   "title": "I Built an AEO Scorer to Test How Well AI Agents Cite Technical Documentation",
+   "link": "https://medium.com/@hsatyaseel/i-built-an-aeo-scorer-to-test-how-well-ai-agents-cite-technical-documentation-bf4359d09434?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-27T16:52:02+00:00",
+   "summary": "A plain-English look at the live checks, 100-point rubric, and reliability guards behind an open-source Answer Engine Optimisation checker. Continue reading on Medium »"
+  },
+  {
+   "id": "https://medium.com/p/f4898aa8ec77",
+   "title": "Design docs people actually read",
+   "link": "https://medium.com/@jitinbahri/design-docs-people-actually-read-f4898aa8ec77?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-27T16:04:32+00:00",
+   "summary": "How to write the doc that gets a real yes or no: a one-page summary up front, options with honest trade-offs, decisions kept apart from… Continue reading on Medium »"
+  },
   {
    "id": "https://chrischinchilla.com/newsletter/271126/",
    "title": "Reverse profiteering",
@@ -205,7 +232,7 @@
    "source": "Medium: technical writing",
    "topic": "Technical writing",
    "published": "2026-11-26T15:19:34+00:00",
-   "summary": "Data types in OpenAPI matter and we need to know when they do. Continue reading on Medium »"
+   "summary": "Data types in OpenAPI matter and we need to know why they matter. Continue reading on Medium »"
   },
   {
    "id": "tag:github.com,2008:Repository/81020247/v3.29.0",
