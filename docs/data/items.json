@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:46:21.234826+00:00",
+ "updated": "2026-11-27T14:08:22.733163+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -60,6 +60,22 @@
    "name": "Cyborgs Writing (Lance Cummings)",
    "ok": true,
    "count": 3
+  },
+  {
+   "name": "DocsWriter (Gaurav Nelson)",
+   "ok": false,
+   "count": 0,
+   "error": "<unknown>:2:39: not well-formed (invalid token)"
+  },
+  {
+   "name": "technicalwriting.dev (Kayce Basques)",
+   "ok": true,
+   "count": 3
+  },
+  {
+   "name": "r/technicalwriting",
+   "ok": true,
+   "count": 0
   }
  ],
  "voices": [
@@ -74,9 +90,60 @@
    "platform": "LinkedIn",
    "url": "https://www.linkedin.com/company/write-the-docs/",
    "note": "Community announcements"
+  },
+  {
+   "name": "r/technicalwriting",
+   "platform": "Reddit",
+   "url": "https://www.reddit.com/r/technicalwriting/",
+   "note": "Community questions and job talk"
   }
  ],
  "items": [
+  {
+   "id": "https://chrischinchilla.com/newsletter/271126/",
+   "title": "Reverse profiteering",
+   "link": "https://chrischinchilla.com/newsletter/271126/",
+   "source": "Chris Chinchilla",
+   "topic": "Technical writing",
+   "published": "2026-11-27T15:00:00+00:00",
+   "summary": "Exploits abound. Military tech in dance clubs. Tech companies push the boundaries of what's acceptable. And more."
+  },
+  {
+   "id": "https://dev.to/kazunft/i-fed-a-two-endpoint-api-to-sourcey-and-got-a-docs-site-back-26lj",
+   "title": "I Fed a Two-Endpoint API to Sourcey and Got a Docs Site Back",
+   "link": "https://dev.to/kazunft/i-fed-a-two-endpoint-api-to-sourcey-and-got-a-docs-site-back-26lj",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T14:04:11+00:00",
+   "summary": "I have a small trading agent with an HTTP dashboard, and its API lived in code comments. Two endpoints, GET /api/state and POST /api/chat, described nowhere except a header comment in server.js. That is fine until someone else needs to call it, and then the comment is not…"
+  },
+  {
+   "id": "https://dev.to/algohand/your-eas-inputs-are-an-interface-document-them-like-one-2g7j",
+   "title": "Your EA's inputs are an interface. Document them like one.",
+   "link": "https://dev.to/algohand/your-eas-inputs-are-an-interface-document-them-like-one-2g7j",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T13:57:30+00:00",
+   "summary": "“Start trading at nine” sounds like a clear request. An Expert Advisor might expose StartHour=9 , but nine in which time zone? Does the setting affect new entries only? Does another switch disable the schedule altogether? The customer should not have to discover those answers by…"
+  },
+  {
+   "id": "https://dev.to/capafy_factory/this-27-line-readme-failed-10-checks-a-visitor-would-have-left-in-3-seconds-jhn",
+   "title": "This 27-Line README Failed 10 Checks. A Visitor Would Have Left in 3 Seconds.",
+   "link": "https://dev.to/capafy_factory/this-27-line-readme-failed-10-checks-a-visitor-would-have-left-in-3-seconds-jhn",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-27T13:07:02+00:00",
+   "summary": "Open a repository you have never seen before. The README is the first thing you read, and you decide in about three seconds whether to stay or close the tab. You do not read it. You scan it for four answers: what is this, can I install it, can I see it work, and can I legally…"
+  },
+  {
+   "id": "https://passo.uno/letter-to-a-junior-tech-writer/",
+   "title": "Letter to a junior technical writer",
+   "link": "https://passo.uno/letter-to-a-junior-tech-writer/",
+   "source": "Passo.uno (Fabrizio Ferri Benedetti)",
+   "topic": "Technical writing",
+   "published": "2026-11-27T11:00:00+00:00",
+   "summary": "Dear Junior, I’ve heard you’re considering whether to pursue a tech writing career. You hold a degree or two, perhaps even a master’s in tech comms, but the sudden and violent explosion of AI in tech has left you peering into a smoking crater and wondering whether it’s going to…"
+  },
   {
    "id": "https://dev.to/jessieburnside/choosing-a-confluence-alternative-a-decision-guide-for-teams-1e10",
    "title": "Choosing a Confluence Alternative: A Decision Guide for Teams",
