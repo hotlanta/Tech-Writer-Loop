@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:27:02.266036+00:00",
+ "updated": "2026-11-28T07:59:55.343006+00:00",
  "sources": [
   {
    "name": "I'd Rather Be Writing",
@@ -99,6 +99,42 @@
   }
  ],
  "items": [
+  {
+   "id": "https://dev.to/docstar_io/documentation-best-practices-for-people-and-ai-agents-21el",
+   "title": "Documentation Best Practices for People and AI Agents",
+   "link": "https://dev.to/docstar_io/documentation-best-practices-for-people-and-ai-agents-21el",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-28T07:40:04+00:00",
+   "summary": "With DocStar, documentation best practices come down to one idea: write each page once, clearly enough that a person can skim it and an AI agent can act on it, then let DocStar serve that same page as a docs site, an llms.txt entry, a Markdown copy, an MCP server and (for API…"
+  },
+  {
+   "id": "https://dev.to/lukedwighteditor/how-to-keep-api-documentation-up-to-date-without-extra-work-24jk",
+   "title": "How to Keep API Documentation Up to Date Without Extra Work",
+   "link": "https://dev.to/lukedwighteditor/how-to-keep-api-documentation-up-to-date-without-extra-work-24jk",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-28T05:53:32+00:00",
+   "summary": "API documentation has a habit of going stale. A team ships a new endpoint, renames a field, or changes an error response, and the documentation quietly falls behind. Developers who rely on it then waste time guessing, filing support tickets, or working from outdated examples.…"
+  },
+  {
+   "id": "https://dev.to/jackmally/checking-markdown-docs-for-ai-writing-in-ci-what-to-send-what-it-costs-what-to-do-with-the-result-134h",
+   "title": "Checking Markdown docs for AI writing in CI: what to send, what it costs, what to do with the result",
+   "link": "https://dev.to/jackmally/checking-markdown-docs-for-ai-writing-in-ci-what-to-send-what-it-costs-what-to-do-with-the-result-134h",
+   "source": "dev.to: documentation",
+   "topic": "Docs-as-code",
+   "published": "2026-11-28T05:37:19+00:00",
+   "summary": "Start with git diff to find the Markdown docs and blog posts a pull request changed. Skip files below the word minimum, reuse results for unchanged prose for up to 24 hours, and post the verdict in a PR comment so the reviewer decides whether to merge. The Python examples call…"
+  },
+  {
+   "id": "https://medium.com/p/bc61b7bbe295",
+   "title": "Running Ollama on Windows and Calling It from WSL2: The Gotchas I Didn’t Expect",
+   "link": "https://medium.com/@majestic.photographer/running-ollama-on-windows-and-calling-it-from-wsl2-the-gotchas-i-didnt-expect-bc61b7bbe295?source=rss------technical_writing-5",
+   "source": "Medium: technical writing",
+   "topic": "Technical writing",
+   "published": "2026-11-28T02:50:32+00:00",
+   "summary": "I recently started a small local AI project on my Windows laptop. Continue reading on Medium »"
+  },
   {
    "id": "https://dev.to/max-rooz/construction-management-works-better-when-the-project-record-stays-organized-14aa",
    "title": "Construction Management Works Better When the Project Record Stays Organized",
